@@ -22,7 +22,7 @@ Speakers will present a problem they have worked on and show how they have solve
 *   8:30 - arrival and sign in 
 *   9:00 - 9:15 Opening remarks / (Mike Lionais)
 *   9:15 - 9:45 AAFC - B. Watson, AAFC, Using Machine Learning Algorithms to predict how much debt AAFC will recover on outstanding receivables; Pay Verification Tool - an interactive data visualization tool for identifying pay issues. 
-*   9:45 - 10:15 TBS - M. Ng, O. L.W. Chen, Using Machine Learning Algorithms to Cluster Departments for Internal Services; 
+*   9:45 - 10:15 TBS - M. Ng, O. Lee, Using Machine Learning Algorithms to Cluster Departments for Internal Services; 
 *   10:15 - 10:30 Break  
 *   10:30 - 11:00 CFIA -  J.-J Ryu, CFIA, Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material
 *	11:00 – 11:30 P. Boily, Carleton University 
