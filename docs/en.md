@@ -53,7 +53,7 @@ S. Kibbee, O. Nasr, S. Louden. CSPS – Digital Academy
 
 *	14:30 - 14:45 Break 
 
-*	14:45 - 15:15 Using data visualization in Tableau to build consensus and save costs. 
+*	14:45 - 15:15 Using data visualization in Tableau to build consensus and save costs.   
 A. Grignon, NRCan
 
 *	15:15 - 15:45 Burning questions from the community
