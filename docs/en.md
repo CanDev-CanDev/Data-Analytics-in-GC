@@ -10,7 +10,7 @@ title: Strategic Analytics Discussions
 Treasury Board Secretariat, Room 2005, 90 Elgin Street, Ottawa 
 
 
-There is no cost associated with attendance.  However [registration is required](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). The registration deadline is February 13, 2019. 
+There is no cost associated with attendance.  However [registration is required](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). The registration deadline is February 11, 2019. 
 
 # Purpose of the meeting 
 
@@ -19,30 +19,45 @@ This is intended to be an informal gathering to discuss the application of strat
 Speakers will present a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
 
 # Schedule
-*   8:30 - 9:00 arrival and sign in 
+*   8:30 - 9:00 Arrival and sign in 
+
 *   9:00 - 9:15 Opening remarks / (Mike Lionais)
+
 *   9:15 - 9:45 Using Machine Learning Algorithms to predict how much debt AAFC will recover on outstanding receivables; Pay Verification Tool - an interactive data visualization tool for identifying pay issues.  
 B. Watson, AAFC
+
 *   9:45 - 10:15 Using Machine Learning Algorithms to Cluster Departments for Internal Services. 
 M. Ng, O. Lee, TBS
+
 *   10:15 - 10:30 Break  
+
 *   10:30 - 11:00 Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material.  
 J.-J Ryu, CFIA
+
 *	11:00 – 11:30 Decomposition of Portfolio Optimization Problems for Quantum Annealing.  
 B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo
+
 *	11:30 - 12:00 Principles and Pitfalls of Data Visualization.  
 P. Boily, Carleton University, Data Action Lab
+
 *	12:00 - 13:00 Lunch 
+
 *	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.
 M. Chapman, S. Vallée, Stats Can
+
 *	13:30 - 14:00 Visualizing Data with R: An adventure with ggplot2 & the Public Service Employee Survey.  
 B. O'Byrne, TBS
+
 *	14:00 - 14:30: Automated Report Generation; Natural language processing, sentiment analysis and the future of analyzing feedback.  
 S. Kibbee, O. Nasr, S. Louden. CSPS – Digital Academy
+
 *	14:30 - 14:45 Break 
+
 *	14:45 - 15:15 Using data visualization in Tableau to build consensus and save costs. 
 A. Grignon, NRCan
+
 *	15:15 - 15:45 Burning questions from the community
+
 *	15:45 - 16:00 Closing Comments 
 
 
@@ -52,9 +67,9 @@ Parking: Check [this link](https://en.parkopedia.ca/parking/locations/90_elgin_s
 
 Building access: Bring an ID for you to be signed in.
 
-Lunch will not be provided, but there are many options close by.
-
 Coffee and refreshments during the breaks will be graciously provided by the Joint Career Development Program jointly administered by the ACFO and the Office of the Comptroller General.
+
+Lunch will not be provided, but there are many options close by.
 
 # Streaming and slides
 
