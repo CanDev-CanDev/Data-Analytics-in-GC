@@ -27,12 +27,12 @@ Les présentateurs transmettront, dans la langue de leur choix, leur expérience
 *   9:15 - 9:45  Recours aux algorithmes d’apprentissage automatique pour prévoir le montant de la dette qu’AAC sera en mesure de récupérer par rapport aux comptes débiteurs en souffrance; outil de vérification de la paye – un outil interactif de visualisation des données pour relever les problèmes de paye.  
 B. Watson, AAC.
 
-*   9:45 - 10:15 Recours aux algorithmes d’apprentissage automatique pour regrouper les ministères pour les services internes. 
+*   9:45 - 10:15 Recours aux algorithmes d’apprentissage automatique pour regrouper les ministères pour les services internes.   
 M. Ng, O. Lee, SCT
 
 *   10:15 - 10:30  Pause
 
-*   10:30 - 11:00 Recours aux algorithmes d’apprentissage automatique pour prévoir les cas de non-conformité liés aux matériaux d’emballage en bois. 
+*   10:30 - 11:00 Recours aux algorithmes d’apprentissage automatique pour prévoir les cas de non-conformité liés aux matériaux d’emballage en bois.  
 J.-J Ryu, ACIA
 
 *	11:00 – 11:30   Décomposition des problèmes d’optimisation des portefeuilles aux fins de recuit quantique.  
