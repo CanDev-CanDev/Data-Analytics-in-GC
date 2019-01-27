@@ -34,7 +34,7 @@ Postes Canada
 *	2:00 - 2:30: Stats CAN- M. Chapman, S. Vallée,  Data Analytics Journey, Unleashing the Finance Community’s Potential.
 *	2:30 - 2:45 Break 
 *	2:45 - 3:00 Canada School of Public Service – Digital Academy, Automated Report Generation
-*	3:00 - 3:30 Stats Can Christian Ritter
+*	3:00 - 3:30 
 *	3:30 - 3:45 
 *	3:45 - 4:00 Closing discussion / Discussion de clôture
 
