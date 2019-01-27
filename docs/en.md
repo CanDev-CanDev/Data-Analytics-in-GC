@@ -16,7 +16,7 @@ There is no cost associated with attendance.  However [registration is required]
 
 This is intended to be an informal gathering to discuss the application of strategic analytics approaches in financial management and for sharing ideas at the working level.  
 
-Speakers will present a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
+Speakers will present, in their language of choice, a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
 
 # Schedule
 *   8:30 - 9:00 Arrival and sign in 
@@ -63,7 +63,7 @@ A. Grignon, NRCan
 
 # Logistics
 
-Parking: Check [this link](https://en.parkopedia.ca/parking/locations/90_elgin_street_ottawa_ontario_k1p_5e7_canada_f244msbc8ps/?country=ca&arriving=201902180900&leaving=201902181600) for availability of pay parking near [90 Elgin Street] (https://www.google.com/maps/place/90+Elgin+St,+Ottawa,+ON+K1P+5E9/@45.4220487,-75.6968851,17z/data=!3m1!4b1!4m5!3m4!1s0x4cce05aaa3d54d7f:0x7db7934077dd9470!8m2!3d45.4220487!4d-75.694691)
+Parking: Check [this link](https://en.parkopedia.ca/parking/locations/90_elgin_street_ottawa_ontario_k1p_5e7_canada_f244msbc8ps/?country=ca&arriving=201902180900&leaving=201902181600) for availability of pay parking near [90 Elgin Street](https://www.google.com/maps/place/90+Elgin+St,+Ottawa,+ON+K1P+5E9/@45.4220487,-75.6968851,17z/data=!3m1!4b1!4m5!3m4!1s0x4cce05aaa3d54d7f:0x7db7934077dd9470!8m2!3d45.4220487!4d-75.694691)
 
 Building access: Bring an ID for you to be signed in.
 
