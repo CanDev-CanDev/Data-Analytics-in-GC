@@ -34,16 +34,13 @@ B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo
 P. Boily, Carleton University, Data Action Lab
 *	12:00 - 13:00 Lunch 
 *	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.
-
 M. Chapman, S. Vallée, Stats Can
 *	13:30 - 14:00 Visualizing Data with R: An adventure with ggplot2 & the Public Service Employee Survey.  
 B. O'Byrne, TBS
 *	14:00 - 14:30: Automated Report Generation; Natural language processing, sentiment analysis and the future of analyzing feedback.  
-
 S. Kibbee, O. Nasr, S. Louden. CSPS – Digital Academy
 *	14:30 - 14:45 Break 
 *	14:45 - 15:15 Using data visualization in Tableau to build consensus and save costs. 
-
 A. Grignon, NRCan
 *	15:15 - 15:45 Burning questions from the community
 *	15:45 - 16:00 Closing Comments 
