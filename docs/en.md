@@ -19,24 +19,31 @@ This is intended to be an informal gathering to discuss the application of strat
 Speakers will present a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
 
 # Schedule
-*   8:30 - arrival and sign in 
+*   8:30 - 9:00 arrival and sign in 
 *   9:00 - 9:15 Opening remarks / (Mike Lionais)
-*   9:15 - 9:45 AAFC - B. Watson, AAFC, Using Machine Learning Algorithms to predict how much debt AAFC will recover on outstanding receivables; Pay Verification Tool - an interactive data visualization tool for identifying pay issues. 
-*   9:45 - 10:15 TBS - M. Ng, O. Lee, Using Machine Learning Algorithms to Cluster Departments for Internal Services; 
+*   9:15 - 9:45 Using Machine Learning Algorithms to predict how much debt AAFC will recover on outstanding receivables; Pay Verification Tool - an interactive data visualization tool for identifying pay issues.  
+B. Watson, AAFC
+*   9:45 - 10:15 Using Machine Learning Algorithms to Cluster Departments for Internal Services. 
+M. Ng, O. Lee, TBS
 *   10:15 - 10:30 Break  
-*   10:30 - 11:00 CFIA -  J.-J Ryu, CFIA, Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material
-*	11:00 – 11:30 P. Boily, Carleton University 
-*	11:30 - 12:00 Bank of Canada - B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo, Decomposition of Portfolio Optimization Problems for Quantum Annealing.
-*	12:00 - 1:00 Lunch 
-*	1:00 – 1:30 Canada Post - A. Sammy, Canada Post, Using Data Analytics for Fraud Detection and Bid Rigging/Collusion Detection.
-Postes Canada 
-*	1:30 - 2:00 TBS Byron O’Byrne 
-*	2:00 - 2:30: Stats CAN- M. Chapman, S. Vallée,  Data Analytics Journey, Unleashing the Finance Community’s Potential.
-*	2:30 - 2:45 Break 
-*	2:45 - 3:00 Canada School of Public Service – Digital Academy, Automated Report Generation
-*	3:00 - 3:30 
-*	3:30 - 3:45 
-*	3:45 - 4:00 Closing discussion / Discussion de clôture
+*   10:30 - 11:00 Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material.  
+J.-J Ryu, CFIA
+*	11:00 – 11:30 Decomposition of Portfolio Optimization Problems for Quantum Annealing.  
+B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo
+*	11:30 - 12:00 Principles and Pitfalls of Data Visualization.  
+P. Boily, Carleton University, Data Action Lab
+*	12:00 - 13:00 Lunch 
+*	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential. 
+M. Chapman, S. Vallée, Stats Can
+*	13:30 - 14:00 Visualizing Data with R: An adventure with ggplot2 & the Public Service Employee Survey.  
+B. O'Byrne, TBS
+*	14:00 - 14:30: Automated Report Generation; Natural language processing, sentiment analysis and the future of analyzing feedback.  
+S. Kibbee, O. Nasr, S. Louden. CSPS – Digital Academy,
+*	14:30 - 14:45 Break 
+*	14:45 - 15:15 Using data visualization in Tableau to build consensus and save costs. 
+A. Grignon, NRCan
+*	15:15 - 15:45 Burning questions from the community
+*	15:45 - 16:00 Closing Comments 
 
 
 # Logistics
@@ -47,7 +54,7 @@ Building access: Bring an ID for you to be signed in.
 
 Lunch will not be provided, but there are many options close by.
 
-Coffee will be provided during the breaks 
+Coffee and refreshments during the breaks will be graciously provided by the Joint Career Development Program jointly administered by the ACFO and the Office of the Comptroller General.
 
 # Streaming and slides
 
@@ -55,7 +62,7 @@ The session is not recorded or streamed. Slides will not be distributed.
 
 # Advertisements 
 
-To advertise your initiative, conference, etc. during the breaks, please add a slide [here](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1). 
+To advertise your initiative, conference, etc. during the breaks, please add a slide [here](https://docs.google.com/presentation/d/1YCxLR5mS_Y0nTLxM-Ri_rZAuEs60fSdvfPDTxKqPY4A/edit#slide=id.p1), or send copy to Monique.Ng@tbs-sct.gc.ca.  
 
 # Data and Privacy 
 
