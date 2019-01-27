@@ -64,7 +64,7 @@ A. Grignon, NRCan
 
 # Logistique
 
-Stationnement : Cliquez sur ce lien (https://en.parkopedia.ca/parking/locations/90_elgin_street_ottawa_ontario_k1p_5e7_canada_f244msbc8ps/?arriving=201902180900&leaving=201902181600) pour obtenir une liste des stationnements disponibles à proximité du 90, rue Elgin.  
+Stationnement : Cliquez sur ce lien [ici](https://en.parkopedia.ca/parking/locations/90_elgin_street_ottawa_ontario_k1p_5e7_canada_f244msbc8ps/?arriving=201902180900&leaving=201902181600) pour obtenir une liste des stationnements disponibles à proximité du 90, rue Elgin [ici] (https://www.google.com/maps/place/90+Elgin+St,+Ottawa,+ON+K1P+5E9/@45.4220487,-75.6968851,17z/data=!3m1!4b1!4m5!3m4!1s0x4cce05aaa3d54d7f:0x7db7934077dd9470!8m2!3d45.4220487!4d-75.694691)
 
 Accès à l’immeuble : Apportez votre carte d’identité pour l’enregistrement.
 
