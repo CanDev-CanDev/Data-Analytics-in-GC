@@ -16,7 +16,7 @@ There is no cost associated with attendance.  However [registration is required]
 
 This is intended to be an informal gathering to discuss the application of strategic analytics approaches in financial management and for sharing ideas at the working level.  
 
-Speakers will present, in their language of choice, a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
+Speakers will present, in their official language of choice, a problem they have worked on and show how they have solved it using data analytics techniques and tools. 
 
 # Schedule
 *   8:30 - 9:00 Arrival and sign in 
