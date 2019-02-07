@@ -35,8 +35,7 @@ M. Ng, O. Lee, SCT
 *   10:30 - 11:00 Recours aux algorithmes d’apprentissage automatique pour prévoir les cas de non-conformité liés aux matériaux d’emballage en bois.  
 J.-J Ryu, ACIA
 
-*	11:00 – 11:30   Décomposition des problèmes d’optimisation des portefeuilles aux fins de recuit quantique.  
-B. Collignon, Banque du Canada et O. Di Matteo, Université de Waterloo
+*	11:00 – 11:30   
 
 *	11:30 - 12:00  Les principes et les écueils de visualization de données.  
 P. Boily, Université Carleton, Data Action Lab 
