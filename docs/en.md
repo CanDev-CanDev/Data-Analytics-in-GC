@@ -34,8 +34,7 @@ M. Ng, O. Lee, TBS
 *   10:30 - 11:00 Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material.  
 J.-J Ryu, CFIA
 
-*	11:00 – 11:30 Decomposition of Portfolio Optimization Problems for Quantum Annealing.  
-B. Collignon, Bank of Canada & O. Di Matteo, University of Waterloo
+*	11:00 – 11:30 
 
 *	11:30 - 12:00 Principles and Pitfalls of Data Visualization.  
 P. Boily, Carleton University, Data Action Lab
