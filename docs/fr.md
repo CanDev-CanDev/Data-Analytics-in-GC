@@ -10,7 +10,9 @@ title: Analyse de données dans le domaine de la gestion financière au GC
 
 Secrétariat du Conseil du Trésor, Salle 2005, 90 rue Elgin, Ottawa 
 
-La participation à cette activité est gratuite. Toutefois, [vous devez vous inscrire](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). La date limite pour participer est le 11 février 2019.
+La participation à cette activité est gratuite. 
+
+**Les inscriptions sont maintenant closes et il n'y a plus de siège vacant.
 
 
 # But de la rencontre
