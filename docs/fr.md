@@ -12,7 +12,7 @@ Secrétariat du Conseil du Trésor, Salle 2005, 90 rue Elgin, Ottawa
 
 La participation à cette activité est gratuite. 
 
-**Les inscriptions sont maintenant closes et il n'y a plus de siège vacant.
+**Les inscriptions sont maintenant closes et il n'y a plus de siège vacant**
 
 
 # But de la rencontre
