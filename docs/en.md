@@ -10,7 +10,9 @@ title: Strategic Analytics Discussions
 Treasury Board Secretariat, Room 2005, 90 Elgin Street, Ottawa 
 
 
-There is no cost associated with attendance.  However [registration is required](https://docs.google.com/forms/d/e/1FAIpQLSdRJMLB10MEHzbWySAwDr4Pk_opMI97CMn85WxPBImEopAG7g/viewform). The registration deadline is February 11, 2019. 
+There is no cost associated with attendance.  
+
+**Registration is now closed and all seats are now taken.**
 
 # Purpose of the meeting 
 
