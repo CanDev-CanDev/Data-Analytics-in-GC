@@ -22,7 +22,7 @@ Il s’agit d’une rencontre officieuse pour discuter de l’application de l�
 Les présentateurs transmettront, dans la langue de leur choix, leur expérience dans la résolution d’un problème au moyen de l’analytique des données et d’outils et de techniques de la science des données.  
   
 
-# Horaire provisoire
+# Horaire
 
 *   8:30 - 9:00  Arrivée et inscription
 *   9:00 - 9:15  Remarques d’ouverture (Mike Lionais)
