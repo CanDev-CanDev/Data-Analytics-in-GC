@@ -37,7 +37,8 @@ M. Ng, O. Lee, SCT
 *   10:30 - 11:00 Recours aux algorithmes d’apprentissage automatique pour prévoir les cas de non-conformité liés aux matériaux d’emballage en bois.  
 J.-J Ryu, ACIA
 
-*	11:00 – 11:30   
+*	11:00 – 11:30 Visualiser les données avec R : une aventure avec ggplot2 et le Sondage auprès des fonctionnaires fédéraux.  
+B. O'Byrne, SCT  
 
 *	11:30 - 12:00  Les principes et les écueils de visualization de données.  
 P. Boily, Université Carleton, Data Action Lab 
@@ -45,10 +46,10 @@ P. Boily, Université Carleton, Data Action Lab
 *	12:00 - 13:00 Repas du midi
 
 *	13:00 – 13:30 Parcours de l’analytique des données de Statistique Canada : Libérer le potentiel de la collectivité des finances.  
-M. Chapman, S. Vallée, Statistique Canada
+M. Chapman, S. Vallée, S. Kew, Statistique Canada
 
-*	13:30 - 14:00 Visualiser les données avec R : une aventure avec ggplot2 et le Sondage auprès des fonctionnaires fédéraux.  
-B. O'Byrne, SCT
+*	13:30 - 14:00 L'analyse des données au sein des vérifications internes.
+B. McKenna, TBS
 
 *	14:00 - 14:30: Génération de rapports automatisée; Le traitement du langage naturel, l’analyse de sentiments et l’avenir de l’analyse de la rétroaction; 
 S. Kibbee, O. Nasr, S. Louden, ÉFP - Académie du numérique
