@@ -36,7 +36,8 @@ M. Ng, O. Lee, TBS
 *   10:30 - 11:00 Using Machine Learning Algorithms to Predict Non-Compliance on Wood-Packaging Material.  
 J.-J Ryu, CFIA
 
-*	11:00 – 11:30 
+*	11:00 – 11:30 Visualizing Data with R: An adventure with ggplot2 & the Public Service Employee Survey.  
+B. O'Byrne, TBS
 
 *	11:30 - 12:00 Principles and Pitfalls of Data Visualization.  
 P. Boily, Carleton University, Data Action Lab
@@ -46,8 +47,8 @@ P. Boily, Carleton University, Data Action Lab
 *	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.
 M. Chapman, S. Vallée, Stats Can
 
-*	13:30 - 14:00 Visualizing Data with R: An adventure with ggplot2 & the Public Service Employee Survey.  
-B. O'Byrne, TBS
+*	13:30 - 14:00 Data Analytics in Internal Audit.
+B. McKenna, TBS
 
 *	14:00 - 14:30: Automated Report Generation; Natural language processing, sentiment analysis and the future of analyzing feedback.  
 S. Kibbee, O. Nasr, S. Louden. CSPS – Digital Academy
