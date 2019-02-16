@@ -42,7 +42,9 @@ B. O'Byrne, TBS
 *	11:30 - 12:00 Principles and Pitfalls of Data Visualization.  
 P. Boily, Carleton University, Data Action Lab
 
-*	12:00 - 13:00 Lunch 
+*	12:00 - 12:55 Lunch 
+
+*	12:55 - 13:00 Dany Richard, ACFO 
 
 *	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.
 M. Chapman, S. Vallée, S. Kew. Stats Can
