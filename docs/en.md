@@ -46,7 +46,7 @@ P. Boily, Carleton University, Data Action Lab
 
 *	12:55 - 13:00 Dany Richard, ACFO 
 
-*	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.
+*	13:00 – 13:30 Stats Can Data Analytics Journey, Unleashing the Finance Community’s Potential.       
 M. Chapman, S. Vallée, S. Kew. Stats Can
 
 *	13:30 - 14:00 Data Analytics in Internal Audit.
