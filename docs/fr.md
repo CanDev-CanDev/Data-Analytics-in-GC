@@ -43,7 +43,9 @@ B. O'Byrne, SCT
 *	11:30 - 12:00  Les principes et les écueils de visualization de données.  
 P. Boily, Université Carleton, Data Action Lab 
 
-*	12:00 - 13:00 Repas du midi
+*	12:00 - 12:55 Repas du midi
+
+*	12:55 - 13:00 Dany Richards, ACAF
 
 *	13:00 – 13:30 Parcours de l’analytique des données de Statistique Canada : Libérer le potentiel de la collectivité des finances.  
 M. Chapman, S. Vallée, S. Kew, Statistique Canada
