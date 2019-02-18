@@ -30,7 +30,7 @@ Les présentateurs transmettront, dans la langue de leur choix, leur expérience
 B. Watson, AAC.
 
 *   9:45 - 10:15 Recours aux algorithmes d’apprentissage automatique pour regrouper les ministères pour les services internes.   
-M. Ng, O. Lee, SCT
+M. Ng, SCT
 
 *   10:15 - 10:30  Pause
 
