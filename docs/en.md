@@ -29,7 +29,7 @@ Speakers will present, in their official language of choice, a problem they have
 B. Watson, AAFC
 
 *   9:45 - 10:15 Using Machine Learning Algorithms to Cluster Departments for Internal Services. 
-M. Ng, TBS
+M. Ng, O. Lee, TBS
 
 *   10:15 - 10:30 Break  
 
