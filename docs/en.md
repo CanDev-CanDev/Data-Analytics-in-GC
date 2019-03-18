@@ -64,7 +64,7 @@ A. Grignon, NRCan
 
 *	15:45 - 16:00 Closing Comments 
 
-* [Presentations and resources for the day](https://drive.google.com/drive/folders/16i5bZuAyCVhCC5p2cqcLyr21vXSvCV-Z)
+* [Available presentations and resources can be found here](https://drive.google.com/drive/folders/16i5bZuAyCVhCC5p2cqcLyr21vXSvCV-Z)
 
 # Logistics
 
