@@ -65,6 +65,7 @@ A. Grignon, NRCan
 
 *	15:45 - 16:00  Commentaires de conclusion
 
+* [Les diapositives et les ressources fournies sont disponibles ici](https://drive.google.com/drive/folders/16i5bZuAyCVhCC5p2cqcLyr21vXSvCV-Z)
 
 # Logistique
 
